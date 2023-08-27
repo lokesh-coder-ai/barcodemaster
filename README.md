@@ -1,9 +1,11 @@
 # BARCODEMASTER APP
   Welcome to BarcodeMaster, a Flutter-based mobile application that enables users to generate barcodes and store associated data. Below are the instructions to get started with the app:
+ 
   
  
 # Using the App
 1.Download the apk file,upon launching the app, you'll be presented with a welcome screen.
+apk file path:"build\app\outputs\apk\debug\app-debug.apk"
 
  ![welcomepage (2)](https://github.com/lokesh-coder-ai/barcodemaster/assets/96050749/4d88d860-f71e-4189-8cd7-116d245b177f)
  
